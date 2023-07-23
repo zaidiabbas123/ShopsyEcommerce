@@ -54,6 +54,4 @@ About Page
 - Proficient in working with react-based technologies
 - Efficient in creating single-page applications.
 
-## Author
 
-Hi! my name is [Syed Vilayat Ali Rizvi](https://vilayat.herokuapp.com/) and I am an Indian Full-Stack web developer, software engineer and ML engineer. I am also a passionate innovator and technepreneur.
