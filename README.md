@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Shopsy is a eCommerce application made using React and Redux. The aim of the project is to prove the proficiency in react based technologies and my love for react.
+Shopsy is a eCommerce application made using React and Redux. 
 
 ## Screenshots
 
@@ -45,7 +45,6 @@ About Page
 - React.js
 - Redux
 - React-Redux
-- Axios
 - Typescript
 - React-Router-Dom
 
