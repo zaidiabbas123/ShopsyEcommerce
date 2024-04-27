@@ -52,6 +52,6 @@ About Page
 
 - Proficient in working with APIs
 - Proficient in working with react-based technologies
-- Efficient in creating single-page applications.
+- Decent in creating single-page applications.
 
 
